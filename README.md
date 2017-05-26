@@ -12,7 +12,7 @@ Installation
 
 Install Doctor Lookup by first cloning the repository.  
 ```
-$ git clone https://github.com/mreichman/doctor-lookup.git
+$ git clone https://github.com/Aaron3831/doctor-lookup.git
 ```
 
 Install required packages:
@@ -21,7 +21,7 @@ Go to your command line:
 
 navigate to your desktop
 
-enter the following into your terminal: git clone https://github.com/mreichman/doctor-lookup.git
+enter the following into your terminal: git clone https://github.com/Aaron3831/doctor-lookup.git
 
 navigate to the doctor-lookup folder on your desktop
 
